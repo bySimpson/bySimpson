@@ -32,9 +32,9 @@
 <!-- Dark Mode -->
 <div> 
 <a href="https://github.com/bySimpson/unattended-setups#gh-dark-mode-only">
-<img height=135 src="https://github-readme-stats.vercel.app/api/pin/?username=bySimpson&repo=unattended-setups&theme=dark&bg_color=151515&hide_border=true&show_owner=true" alt="bySimpson's Language stats" />
+<img height=135 src="https://github-readme-stats.vercel.app/api/pin/?username=bySimpson&repo=unattended-setups&theme=dark&bg_color=151515&hide_border=true&show_owner=true#gh-dark-mode-only" alt="bySimpson's Language stats" />
 </a>
 <a href="https://github.com/bySimpson/SimpsonBot#gh-dark-mode-only">
-<img height=135 src="https://github-readme-stats.vercel.app/api/pin/?username=bySimpson&repo=SimpsonBot&theme=dark&bg_color=151515&hide_border=true&show_owner=true" alt="bySimpson's Github stats" />
+<img height=135 src="https://github-readme-stats.vercel.app/api/pin/?username=bySimpson&repo=SimpsonBot&theme=dark&bg_color=151515&hide_border=true&show_owner=true#gh-dark-mode-only" alt="bySimpson's Github stats" />
 </a>
 </div>
