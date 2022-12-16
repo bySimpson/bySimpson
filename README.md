@@ -1,5 +1,5 @@
 <!-- Light Mode -->
-<div> 
+<div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
 <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bySimpson&layout=compact&langs_count=10&hide_border=true&include_orgs=true&include_all_commits=true#gh-light-mode-only" alt="bySimpson's Language stats" />
 </a>
@@ -9,7 +9,7 @@
 </div>
 
 <!-- Dark Mode -->
-<div> 
+<div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
 <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bySimpson&layout=compact&langs_count=10&hide_border=true&include_orgs=true&bg_color=151515&include_all_commits=true&title_color=ebebeb&text_color=9e9e9e#gh-dark-mode-only" alt="bySimpson's Language stats" />
 </a>
@@ -20,7 +20,7 @@
 
 # Featured Repositories:
 <!-- Light Mode -->
-<div> 
+<div align="center"> 
 <a href="https://github.com/bySimpson/unattended-setups#gh-light-mode-only">
 <img height=135 src="https://github-readme-stats.vercel.app/api/pin/?username=bySimpson&repo=unattended-setups&hide_border=true&show_owner=true#gh-light-mode-only" alt="bySimpson's Language stats" />
 </a>
@@ -30,7 +30,7 @@
 </div>
 
 <!-- Dark Mode -->
-<div> 
+<div align="center"> 
 <a href="https://github.com/bySimpson/unattended-setups#gh-dark-mode-only">
 <img height=135 src="https://github-readme-stats.vercel.app/api/pin/?username=bySimpson&repo=unattended-setups&theme=dark&bg_color=151515&hide_border=true&show_owner=true#gh-dark-mode-only" alt="bySimpson's Language stats" />
 </a>
