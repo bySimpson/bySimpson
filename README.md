@@ -18,8 +18,8 @@
 </a>
 </div>
 
+<!--
 ## Featured Repositories:
-<!-- Light Mode -->
 <div align="center"> 
 <a href="https://github.com/bySimpson/unattended-setups#gh-light-mode-only">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=bySimpson&repo=unattended-setups&hide_border=true&show_owner=true#gh-light-mode-only" alt="bySimpson's Language stats" />
@@ -29,7 +29,6 @@
 </a>
 </div>
 
-<!-- Dark Mode -->
 <div align="center"> 
 <a href="https://github.com/bySimpson/unattended-setups#gh-dark-mode-only">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=bySimpson&repo=unattended-setups&theme=dark&bg_color=000000&hide_border=true&show_owner=true#gh-dark-mode-only" alt="bySimpson's Language stats" />
@@ -38,3 +37,4 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=bySimpson&repo=SimpsonBot&theme=dark&bg_color=000000&hide_border=true&show_owner=true#gh-dark-mode-only" alt="bySimpson's Github stats" />
 </a>
 </div>
+-->
