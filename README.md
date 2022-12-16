@@ -21,20 +21,20 @@
 # Featured Repositories:
 <!-- Light Mode -->
 <div> 
-<a href="https://github.com/bySimpson/unattended-setups">
+<a href="https://github.com/bySimpson/unattended-setups#gh-light-mode-only">
 <img height=135 src="https://github-readme-stats.vercel.app/api/pin/?username=bySimpson&repo=unattended-setups&hide_border=true&show_owner=true#gh-light-mode-only" alt="bySimpson's Language stats" />
 </a>
-<a href="https://github.com/bySimpson/SimpsonBot">
+<a href="https://github.com/bySimpson/SimpsonBot#gh-light-mode-only">
 <img height=135 src="https://github-readme-stats.vercel.app/api/pin/?username=bySimpson&repo=SimpsonBot&hide_border=true&show_owner=true#gh-light-mode-only" alt="bySimpson's Github stats" />
 </a>
 </div>
 
 <!-- Dark Mode -->
 <div> 
-<a href="https://github.com/bySimpson/unattended-setups">
+<a href="https://github.com/bySimpson/unattended-setups#gh-dark-mode-only">
 <img height=135 src="https://github-readme-stats.vercel.app/api/pin/?username=bySimpson&repo=unattended-setups&theme=dark&bg_color=151515&hide_border=true&show_owner=true" alt="bySimpson's Language stats" />
 </a>
-<a href="https://github.com/bySimpson/SimpsonBot">
+<a href="https://github.com/bySimpson/SimpsonBot#gh-dark-mode-only">
 <img height=135 src="https://github-readme-stats.vercel.app/api/pin/?username=bySimpson&repo=SimpsonBot&theme=dark&bg_color=151515&hide_border=true&show_owner=true" alt="bySimpson's Github stats" />
 </a>
 </div>
